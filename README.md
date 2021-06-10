@@ -1,7 +1,8 @@
 <h1 align="center">Hello! My name is Malik Akbar Hashemi Rafsanjani!</h1>
+<hr>
 <h4 align="center">But you can call me Malik / Akbar. I'm a Software Engineer Student in Bandung Institute of Technology (ITB), Fullstack Developer, and Machine Learning Engineer.</h4>
-
 <p align="center">I really enjoy working in software development. Currently, I learn many fields related to software from various sources, such as online courses, student organizations, committees, and of course from lectures. I am very happy to accept offers of collaborations, internships, and part time jobs. Would love to work with fun people!</p>
+<hr>
 
 ## 📞 Contacts
 </br>
@@ -45,9 +46,11 @@
 <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow"/>
 </p>
 <br/>
+<hr>
 
 ## 📜 Certificate
-Here is [my programming certificate](Certificate.md)
+Here is [my programming certificate](Certificate.md) from various course providers and student association 
+<hr>
 
 ## My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=malikrafsan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
