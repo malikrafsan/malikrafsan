@@ -51,3 +51,6 @@ Here is [my programming certificate](Certificate.md)
 
 ## My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=malikrafsan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
+<div>
+    <a href="https://github.com/malikrafsan/malikrafsan"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrafsan&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
+</div>
