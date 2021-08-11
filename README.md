@@ -17,33 +17,36 @@
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5">
 <img src="https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3">
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/-Nodejs-333333?style=flat-square&logo=Nodejs">
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php">
+</p>
+<p>
+<img src="https://img.shields.io/badge/-Nodejs-333333?style=flat-square&logo=Node.js">
+<img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-ExpressJS-333333?style=flat-square&logo=express">
+<img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
 </p>
 <p>
 <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python">
 <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C">
-<img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cpp">
-<img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=None">
+<img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=Cplusplus">
+<img src="https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu+bash">
 <img src="https://img.shields.io/badge/-Haskell-333333?style=flat-square&logo=haskell"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify">
-<img src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku">
+<img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-Gitlab-333333?style=flat-square&logo=gitlab">
 <img src="https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify">
+<img src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku">
 </p>
 <br/>
 
 ## 👓 I'm Currently Learning
 <br/>
 <p>
-<img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
-<img src="https://img.shields.io/badge/-ExpressJS-333333?style=flat-square&logo=express">
-<img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php">
-<img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
 <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/-Vue.Js-333333?style=flat-square&logo=vue.js">
 </p>
 <br/>
 <hr>
