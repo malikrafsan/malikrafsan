@@ -14,23 +14,27 @@
 ## 💻 Technologies & Tools
 </br>
 <p>
+<img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C">
+<img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=Cplusplus">
+<img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python">
+<img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java">
+<img src="https://img.shields.io/badge/-Haskell-333333?style=flat-square&logo=haskell"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5">
 <img src="https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3">
+<img src="https://img.shields.io/badge/-Bootstrap5-333333?style=flat-square&logo=bootstrap">
+<img src="https://img.shields.io/badge/-Sass-333333?style=flat-square&logo=sass">
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php">
 </p>
 <p>
 <img src="https://img.shields.io/badge/-Nodejs-333333?style=flat-square&logo=Node.js">
 <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-Vue.Js-333333?style=flat-square&logo=vue.js">
 <img src="https://img.shields.io/badge/-ExpressJS-333333?style=flat-square&logo=express">
 <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
-</p>
-<p>
-<img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python">
-<img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C">
-<img src="https://img.shields.io/badge/-C++-333333?style=flat-square&logo=Cplusplus">
-<img src="https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu+bash">
-<img src="https://img.shields.io/badge/-Haskell-333333?style=flat-square&logo=haskell"/>
+<img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 </p>
 <p>
 <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
@@ -39,6 +43,11 @@
 <img src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify">
 <img src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku">
 </p>
+<p>
+<img src="https://img.shields.io/badge/-ROS-333333?style=flat-square&logo=ros">
+<img src="https://img.shields.io/badge/-Gazebo-333333?style=flat-square&logo=gazebo">
+<img src="https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu+bash">
+</p>
 <br/>
 
 ## 👓 I'm Currently Learning
@@ -46,7 +55,9 @@
 <p>
 <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
-<img src="https://img.shields.io/badge/-Vue.Js-333333?style=flat-square&logo=vue.js">
+<img src="https://img.shields.io/badge/-Angular-333333?style=flat-square&logo=angular&logoColor=red">
+<img src="https://img.shields.io/badge/-Adobe%20XD-333333?style=flat-square&logo=adobe%20XD">
+<img src="https://img.shields.io/badge/-Prolog-333333?style=flat-square&logo=prolog">
 </p>
 <br/>
 <hr>
