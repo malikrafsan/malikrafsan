@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku">
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 </p>
-<br/>
 
 ### 🤖 Robotics Stuff
 <p>
@@ -45,7 +44,6 @@
 <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu">
 <img src="https://img.shields.io/badge/-Gazebo-333333?style=flat-square&logo=gazebo">
 </p>
-<br/>
 
 ### 💻 General
 <p>
