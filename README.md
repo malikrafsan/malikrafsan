@@ -1,8 +1,25 @@
 <h1 align="center">Hello! My name is Malik Akbar Hashemi Rafsanjani!</h1>
 <hr>
-<h4 align="center">But you can call me Malik / Akbar. I'm a Software Engineer Student in Bandung Institute of Technology (ITB), Fullstack Developer, and Machine Learning Engineer.</h4>
-<p align="center">I really enjoy working in software development. Currently, I learn many fields related to software from various sources, such as online courses, student organizations, committees, and of course from lectures. I am very happy to accept offers of collaborations, internships, and part time jobs. Would love to work with fun people!</p>
-<hr>
+<h4 align="center">But you can call me Malik / Akbar. I'm a Computer Science Student at Bandung Institute of Technology (ITB)</h4>
+<div>
+💻 Highly motivated computer science student at Bandung Institute of Technology (ITB) with a strong academic background and a passion for software engineering and machine learning.
+
+🏆 Selected as the Most Outstanding student from the STEI ITB faculty, maintaining an exceptional CGPA of 3.98/4.00 throughout my academic journey.
+
+🌐 Interned at reputable companies including OCBC NISP Bank, GDP Labs, Payable (YC 22), Advotics, and eComindo, contributing to software development projects.
+
+🧑‍🏫 Became Programming Laboratory coordinator and practicum assistant for various courses, honing leadership and mentoring skills.
+
+🥇 Received international and national awards, such as Runner Up Hackathon Economic Opportunity Category Garuda Hack 2.0, Third Position in International RoboCup Middle Size League (MSL) Scientific Challenge, Wolfram Award 2022 Recipient, Ganesha Karya ITB 2023 Awardee, etc.
+
+🤝 Active involvement in organizations: Lead Curriculum Google DSC ITB, Head of Web Development at Collegacy Indonesia, Software Engineer at Internnet Indonesia.
+
+🔍 Passionate about software engineering and machine learning, striving to excel in the field.
+
+🚀 Aspiring to be a software engineer, leveraging technical skills and innovation to create meaningful solutions.
+
+Let's connect and explore opportunities together!
+</div>
 <br/>
 
 ## 📞 Contacts
